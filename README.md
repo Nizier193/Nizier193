@@ -36,7 +36,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## О себе
+## 「 ✦ О себе ✦ 」
 Приветик, меня зовут Никита, живу в Ленинградской области, мне 17 лет.
 
 Я выпускник 10 класса, который яростно пытается доказать миру, что он на что-то да способен!!
@@ -45,10 +45,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=class+Life():+name+=+"Nizier193")](https://git.io/typing-svg)
 
+---
+## 「 ✦ Личные достижения ✦ 」
+
+🏆 Первое место "Кейс-Чемпионат Deadline" [Репортаж]([docs/CONTRIBUTING.md](https://ren.tv/news/v-rossii/1210751-podvedeny-itogi-pervogo-keis-chempionata-deadline))🏆
+
+🏆 Первое место, команда AGI "ЛЦТ" 🏆
+
+⭐ Четвёртое место, команда Xi-Team "Цифровой прорыв ДФО" ⭐
+
+⭐ Шестое место, команда CtrlNeDano "Хакатон DANO" ⭐
 
 ---
 
-## Стек картинками
+## 「 ✦ Стек картинками ✦ 」
 ![image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
@@ -68,19 +78,8 @@
 ![image](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
-## Личные достижения
 
-🏆 Первое место "Кейс-Чемпионат Deadline" [Репортаж]([docs/CONTRIBUTING.md](https://ren.tv/news/v-rossii/1210751-podvedeny-itogi-pervogo-keis-chempionata-deadline))🏆
-
-🏆 Первое место, команда AGI "ЛЦТ" 🏆
-
-⭐ Четвёртое место, команда Xi-Team "Цифровой прорыв ДФО" ⭐
-
-⭐ Шестое место, команда CtrlNeDano "Хакатон DANO" ⭐
-
----
-
-## Стек письменно
+## 「 ✦ Стек подробно ✦ 」
      
 - **Python Backend**
     - Django
