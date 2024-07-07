@@ -52,9 +52,21 @@
 
 🏆 Первое место, команда AGI "ЛЦТ" 🏆
 
+🥈 Второе место, команда AGI "Цифровой прорыв СКФО" [Репортаж](https://vk.com/video-226111401_456239042) 🥈
+
 ⭐ Четвёртое место, команда Xi-Team "Цифровой прорыв ДФО" ⭐
 
 ⭐ Шестое место, команда CtrlNeDano "Хакатон DANO" ⭐
+
+---
+## 「 ✦ Проекты ✦ 」
+- **SKFO General Project**
+    - < СКФО Client **[Проект](https://github.com/idashevskii/cp-24-skfo)** >
+    - < СКФО Telegram-Bot **[Проект](https://github.com/Nizier193/cp-24-skfo-tg-bot)** >
+    - < СКФО Parser **[Проект](https://github.com/Nizier193/cp-24-skfo-parser)** >
+    - < СКФО Analysis **[Проект](https://github.com/bukhanka/cp-24-skfo-gen_ans_eval)** >
+- **DFO General Project**
+    - < ДФО Client **[Проект](https://github.com/Nizier193/DFO_HackItON)** >
 
 ---
 
