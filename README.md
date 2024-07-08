@@ -30,7 +30,7 @@
     I mean.. I`m just 17, so yeah, that young bruh
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Visit my page!</strong></a>
+    <a href="https://web.telegram.org/k/#@nizier_posts"><strong>Visit my Telegram!</strong></a>
     <br />
   </p>
 </div>
