@@ -64,6 +64,9 @@
 ## 「 ✦ Проекты ✦ 」
 - **DFO General Project**
     - < ДФО Client **[Проект](https://github.com/Nizier193/DFO_HackItON)** >
+      
+- **DatsDefence Hackatone**
+    - < DatsDefence Client **[Проект](https://github.com/Nizier193/datsdefence-12-07)** >
 
 ---
 
