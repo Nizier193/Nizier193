@@ -64,7 +64,13 @@
 ## 「 ✦ Проекты ✦ 」
 - **DFO General Project**
     - < ДФО Client **[Проект](https://github.com/Nizier193/DFO_HackItON)** >
-      
+
+- **SKFO General Project**
+    - < СКФО Client **[Проект](https://github.com/idashevskii/cp-24-skfo)** >
+    - < СКФО Tg-Bot **[Телеграм-бот](https://github.com/Nizier193/cp-24-skfo-tg-bot)** >
+    - < СКФО Parser **[Парсер доков](https://github.com/Nizier193/cp-24-skfo-parser)** >
+    - < СКФО Eval **[Evaluation](https://github.com/bukhanka/cp-24-skfo-gen_ans_eval)** >
+
 - **DatsDefence Hackatone**
     - < DatsDefence Client **[Проект](https://github.com/Nizier193/datsdefence-12-07)** >
 
