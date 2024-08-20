@@ -65,7 +65,7 @@
 
 - **AI ARROW Хакатон**
     - Наиболее масштабный мой хакатон. Соло реализация.
-    - < Streamlit версия + Docker **[Реализация](https://github.com/Nizier193/dnd-aiarrow-llm)** >
+    - < Streamlit версия + Docker **[[Реализация](https://github.com/Nizier193/dnd-aiarrow-llm)]** >
     - < API для управления игрой **[API](https://github.com/Nizier193/dnd-aiarrow-llm/tree/master/services/controle_game_api)** >
 
 - **DFO General Project**
