@@ -109,10 +109,9 @@
 ## 「 ✦ Стек подробно ✦ 」
      
 - **Python Backend**
-    - Django
     - PyTelegramBotAPI
     - SQLite
-    - Развёртка на Beget
+    - FastAPI
       
 - **ML**
     - PyTorch
@@ -122,9 +121,7 @@
         - ResNet-18, 36
     - NLP
         - AutoGen
-        - RagApp
-        - RagFlow
-        - Verba
+        - RAG
         - LangChain
         - LlamaIndex
 
