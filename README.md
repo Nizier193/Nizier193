@@ -50,6 +50,8 @@
 ---
 ## 「 ✦ Личные достижения ✦ 」
 
+🏆 Первое место "II Корпоративный хакатон ПАО Татнефть" [Видеодневники](https://kss.tatneft.ru/docs/pub/55aee85ceab51e8b4daaeafd0caf8382/default/?session=expired&path=%2F%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%B8%2F)
+
 🏆 Первое место "Кейс-Чемпионат Deadline" [Репортаж]([docs/CONTRIBUTING.md](https://ren.tv/news/v-rossii/1210751-podvedeny-itogi-pervogo-keis-chempionata-deadline))🏆
 
 🏆 Первое место, команда AGI "ЛЦТ" 🏆
