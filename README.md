@@ -65,23 +65,26 @@
 ---
 ## 「 ✦ Проекты ✦ 」
 
-- **AI ARROW Хакатон**
+- **Хакатон "Техшторм" от компании Татнефть**
+  - Мой самый масштабный хакатон. Команда AGI
+
+- **Хакатон "AI ARROW"**
     - Наиболее масштабный мой хакатон. Соло реализация.
     - < Streamlit версия + Docker **[[Реализация](https://github.com/Nizier193/dnd-aiarrow-llm)]** >
     - < API для управления игрой **[[API](https://github.com/Nizier193/dnd-aiarrow-llm/tree/master/services/controle_game_api)]** >
 
-- **DFO General Project**
+- **Хакатон "Цифровой Прорыв, ДФО"**
     - Второй по масштабности хакатон. Соло реализация.
     - < ДФО Client **[[Проект](https://github.com/Nizier193/DFO_HackItON)]** >
 
-- **SKFO General Project**
+- **Хакатон "Цифровой Прорыв, СКФО"**
     - Второе место на хакатоне, команда AGI
     - < СКФО Client **[[Проект](https://github.com/idashevskii/cp-24-skfo)]** >
     - < СКФО Tg-Bot **[[Телеграм-бот](https://github.com/Nizier193/cp-24-skfo-tg-bot)]** >
     - < СКФО Parser **[[Парсер доков](https://github.com/Nizier193/cp-24-skfo-parser)]** >
     - < СКФО Eval **[[Evaluation](https://github.com/bukhanka/cp-24-skfo-gen_ans_eval)]** >
 
-- **DatsDefence Hackatone**
+- **Хакатон "Datsdefence"**
     - Геймтон, команда AGI - алгоритмы
     - < DatsDefence Client **[[Проект](https://github.com/Nizier193/datsdefence-12-07)]** >
 
