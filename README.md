@@ -123,6 +123,7 @@
     - PyTelegramBotAPI
     - SQLite
     - FastAPI
+    - Streamlit
       
 - **ML**
     - PyTorch
