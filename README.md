@@ -27,7 +27,7 @@
 
   <p align="center">
     A young developer from Saint-Petersburg.<br />
-    I mean.. I`m just 17, so yeah, that young bruh
+    I mean.. I`m just 17, so, I think everyone could be a programmer :)
     <br />
     <br />
     <a href="https://web.telegram.org/k/#@nizier_posts"><strong>Visit my Telegram!</strong></a>
