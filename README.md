@@ -23,12 +23,11 @@
   <h2 align="center">Hi there! 👋 <br />I`m Nizier193</h2>
 
   <p align="center">
-    A young developer from Saint-Petersburg.<br />
+    A young ML Engineer from Saint-Petersburg.<br/>
     I mean.. I`m just 17, so, I think everyone could be a programmer :)
     <br />
     <br />
-    <a href="https://web.telegram.org/k/#@nizier_posts"><strong>Visit my Telegram!</strong></a>
-    <br />
+    <a href="https://t.me/Nizier193"><strong>Visit my Telegram!</strong></a>
   </p>
 </div>
 
@@ -37,6 +36,8 @@
 Приветик, меня зовут Никита, живу в Ленинградской области, мне 17 лет.
 
 Я ученик 11 класса, который яростно пытается доказать миру, что он на что-то да способен!!
+
+Активно изучаю ML (NLP), применяю его эвристики и участвую в соответствующих хакатонах. 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Coding+is+cool+but+freaking+hard)](https://git.io/typing-svg)
 
