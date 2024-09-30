@@ -1,4 +1,26 @@
-<br/>
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
+
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+
+
+<!-- PROJECT LOGO -->
+<br />
 <div align="center">
 
   <h2 align="center">Hi there! 👋 <br />I`m Nizier193</h2>
@@ -24,21 +46,16 @@
 ---
 ## 「 ✦ Личные достижения ✦ 」
 
-🏆 Первое место, команда [AGI-Team] "II Корпоративный хакатон ПАО Татнефть" **[[Видеодневники](https://kss.tatneft.ru/docs/pub/55aee85ceab51e8b4daaeafd0caf8382/default/?session=expired&path=%2F%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%B8%2F)]** 🏆
-
-🏆 Первое место, команда [LifeLine] "Кейс-Чемпионат Deadline" [[Репортаж]([docs/CONTRIBUTING.md](https://ren.tv/news/v-rossii/1210751-podvedeny-itogi-pervogo-keis-chempionata-deadline))] 🏆
-
-🏆 Первое место, команда [AGI in 2024] "ЛЦТ" 🏆
-
-🏆 Первое место, команда [Xi-Team] "AI-ARROW" 🏆
-
-🥈 Второе место, команда [AGI-Team] **Всероссийский хакатон Цифровой Прорыв** 🥈
-
-🥈 Второе место, команда [AGI in 2024] "Цифровой прорыв СКФО" **[[Репортаж](https://vk.com/video-226111401_456239042)]** 🥈
-
-⭐ Четвёртое место, команда [Xi-Team] "Цифровой прорыв ДФО" ⭐
-
-⭐ Шестое место, команда [CtrlNeDano] "Хакатон DANO" ⭐
+| Место         | Команда          | Событие                                                        | Ссылка                                                                 |
+|---------------|------------------|----------------------------------------------------------------|------------------------------------------------------------------------|
+| 🏆 Первое место | [AGI-Team]      | "II Корпоративный хакатон ПАО Татнефть"                      | **[[Видеодневники](https://kss.tatneft.ru/docs/pub/55aee85ceab51e8b4daaeafd0caf8382/default/?session=expired&path=%2F%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%B8%2F)]** |
+| 🏆 Первое место | [LifeLine]      | "Кейс-Чемпионат Deadline"                                    | [[Репортаж](https://ren.tv/news/v-rossii/1210751-podvedeny-itogi-pervogo-keis-chempionata-deadline)] |
+| 🏆 Первое место | [AGI in 2024]   | "ЛЦТ"                                                        |                                                                        |
+| 🏆 Первое место | [Xi-Team]       | "AI-ARROW"                                                   |                                                                        |
+| 🥈 Второе место | [AGI-Team]      | "Всероссийский хакатон Цифровой Прорыв"                      |                                                                        |
+| 🥈 Второе место | [AGI in 2024]   | "Цифровой прорыв СКФО"                                      | **[[Репортаж](https://vk.com/video-226111401_456239042)]**          |
+| ⭐ Четвёртое место | [Xi-Team]      | "Цифровой прорыв ДФО"                                       |                                                                        |
+| ⭐ Шестое место  | [CtrlNeDano]    | "Хакатон DANO"                                              |                                                                        |
 
 ---
 ## 「 ✦ Команды ✦ 」
@@ -48,42 +65,35 @@ CtrlNeDano | 23 мая 2024
 --- | ---
 Xi-Team | 31 мая 2024 => 09 июня 2024
 AGI in 2024 | 09 июня 2024 => 05 сентября 2024
-**AGI-Team** | **05 сентября 2024 => н.в.**
+**[AGI-Team](https://github.com/agi-team-ru)** | **05 сентября 2024 => н.в.**
 
 ---
 ## 「 ✦ Проекты ✦ 」
-
-- **Всероссийский хакатон "Цифровой Прорыв"**
-  - < Готовый продукт **[[Продукт](https://github.com/agi-team-ru/viral-clip-maker)]** >
-
-- **Хакатон "AI ARROW"** 🏹
-    - < Streamlit версия + Docker **[[Реализация](https://github.com/Nizier193/dnd-aiarrow-llm)]** >
-    - < API для управления игрой **[[API](https://github.com/Nizier193/dnd-aiarrow-llm/tree/master/services/controle_game_api)]** >
-
-- **Хакатон "Цифровой Прорыв, ДФО"** 📊
-    - < ДФО Client **[[Проект](https://github.com/Nizier193/DFO_HackItON)]** >
-    - < ДФО Презентация **[[Презентация](https://github.com/Nizier193/cp24-dfo-client/blob/master/Генерация%20визуальной%20поддержки.pptx)]** >
-
-- **Хакатон "Цифровой Прорыв, СКФО"** 📊
-    - < СКФО Client **[[Проект](https://github.com/idashevskii/cp-24-skfo)]** >
-    - < СКФО Tg-Bot **[[Телеграм-бот](https://github.com/Nizier193/cp-24-skfo-tg-bot)]** >
-    - < СКФО Parser **[[Парсер доков](https://github.com/Nizier193/cp-24-skfo-parser)]** >
-    - < СКФО Eval **[[Evaluation](https://github.com/bukhanka/cp-24-skfo-gen_ans_eval)]** >
-
-- ***Индивидуальный проект / Научная работа "Planeu" 🍃**
-  - < Результаты в графике **[[Примеры GIF, PDF, DOCX](https://github.com/Nizier193/planeu-project)]** >
-
-- **Хакатон "Datsdefence"** ➤
-    - < DatsDefence Client **[[Проект](https://github.com/Nizier193/datsdefence-12-07)]** >
- 
-- **Хакатон "Техшторм" ПАО Татнефть (Приватный репозиторий)**
-  - Очное участие, первое место
-  - Streamlit + TelegramBot
-
-- **RAG Система "Acrux" (Приватный репозиторий)**
-  - FastAPI
-  - TelegramBot
-  - LlamaIndex
+| Хакатон / Проект                                      | Описание                                                                                          | Ссылка                                                                                                      |
+|------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Всероссийский хакатон "Цифровой Прорыв"**          | Готовый продукт                                                                                  | **[[Продукт](https://github.com/agi-team-ru/viral-clip-maker)]**                                        |
+|                                                      |                                                                                                   |                                                                                                             |
+| **Хакатон "AI ARROW"** 🏹                           | Streamlit версия + Docker                                                                          | **[[Реализация](https://github.com/Nizier193/dnd-aiarrow-llm)]**                                        |
+|                                                      | API для управления игрой                                                                          | **[[API](https://github.com/Nizier193/dnd-aiarrow-llm/tree/master/services/controle_game_api)]**        |
+|                                                      |                                                                                                   |                                                                                                             |
+| **Хакатон "Цифровой Прорыв, ДФО"** 📊                | ДФО Client                                                                                       | **[[Проект](https://github.com/Nizier193/DFO_HackItON)]**                                                |
+|                                                      | ДФО Презентация                                                                                  | **[[Презентация](https://github.com/Nizier193/cp24-dfo-client/blob/master/Генерация%20визуальной%20поддержки.pptx)]** |
+|                                                      |                                                                                                   |                                                                                                             |
+| **Хакатон "Цифровой Прорыв, СКФО"** 📊               | СКФО Client                                                                                      | **[[Проект](https://github.com/idashevskii/cp-24-skfo)]**                                               |
+|                                                      | СКФО Tg-Bot                                                                                     | **[[Телеграм-бот](https://github.com/Nizier193/cp-24-skfo-tg-bot)]**                                   |
+|                                                      | СКФО Parser                                                                                     | **[[Парсер доков](https://github.com/Nizier193/cp-24-skfo-parser)]**                                    |
+|                                                      | СКФО Eval                                                                                       | **[[Evaluation](https://github.com/bukhanka/cp-24-skfo-gen_ans_eval)]**                                  |
+|                                                      |                                                                                                   |                                                                                                             |
+| ***Индивидуальный проект / Научная работа "Planeu" 🍃** | Результаты в графике                                                                             | **[[Примеры GIF, PDF, DOCX](https://github.com/Nizier193/planeu-project)]**                              |
+|                                                      |                                                                                                   |                                                                                                             |
+| **Хакатон "Datsdefence"** ➤                         | DatsDefence Client                                                                                | **[[Проект](https://github.com/Nizier193/datsdefence-12-07)]**                                          |
+|                                                      |                                                                                                   |                                                                                                             |
+| **Хакатон "Техшторм" ПАО Татнефть (Приватный репозиторий)** | Очное участие, первое место                                                                       |                                                                                                             |
+|                                                      | Streamlit + TelegramBot                                                                          |                                                                                                             |
+|                                                      |                                                                                                   |                                                                                                             |
+| **RAG Система "Acrux" (Приватный репозиторий)**      | FastAPI                                                                                          |                                                                                                             |
+|                                                      | TelegramBot                                                                                      |                                                                                                             |
+|                                                      | LlamaIndex                                                                                      |                                                                                                             |
 
 ---
 
@@ -110,24 +120,14 @@ AGI in 2024 | 09 июня 2024 => 05 сентября 2024
 
 ## 「 ✦ Стек подробно ✦ 」
      
-- **Python Backend**
-    - PyTelegramBotAPI
-    - SQLite
-    - FastAPI
-    - Streamlit
-      
-- **ML**
-    - PyTorch
-        - Моделирование
-    - CNN
-        - UNet
-        - ResNet-18, 36
-    - NLP
-        - AutoGen
-        - RAG
-        - LangChain
-        - LlamaIndex
-
-- **DS**
-    - Pandas
-    - Matplotlib
+| **Category**       | **Technology**            |
+|--------------------|---------------------------|
+| **Python Backend**  | PyTelegramBotAPI          |
+|                    | SQLite                    |
+|                    | FastAPI                   |
+|                    | Streamlit                 |
+| **ML**             | PyTorch (Моделирование)   |
+|                    | CNN (UNet, ResNet-18, ResNet-36) |
+|                    | NLP (AutoGen, RAG, LangChain, LlamaIndex) |
+| **DS**             | Pandas                    |
+|                    | Matplotlib                |
