@@ -1,23 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 <div align="center">
 
   <h2 align="center">Hi there! 👋 <br />I`m Nizier193</h2>
@@ -27,11 +7,12 @@
     I mean.. I`m just 17, so, I think everyone could be a programmer :)
     <br />
     <br />
-    <a href="https://t.me/Nizier193"><strong>Visit my Telegram!</strong></a>
+    <a href="https://t.me/Nizier193">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
   </p>
 </div>
 
-<!-- ABOUT THE PROJECT -->
 ## 「 ✦ О себе ✦ 」
 Приветик, меня зовут Никита, живу в Ленинградской области, мне 17 лет.
 
@@ -74,12 +55,12 @@
 ## 「 ✦ Проекты ✦ 」
 | Хакатон / Проект | Описание | Ссылка |
 |:-----------------|:---------|:--------|
-| **Всероссийский хакатон "Цифровой Прорыв"** | Gradio/Whisper/Router сервера | **[Продукт](https://github.com/agi-team-ru/viral-clip-maker)** |
-| **Хакатон "AI ARROW"** | • Streamlit сервер<br>• API | **[Реализация](https://github.com/Nizier193/dnd-aiarrow-llm)**<br>**[API](https://github.com/Nizier193/dnd-aiarrow-llm/tree/master/services/controle_game_api)** |
-| **Хакатон "Цифровой Прорыв, ДФО"** | • Клиент<br>• Презентация | **[Проект](https://github.com/Nizier193/DFO_HackItON)**<br>**[Презентация](https://github.com/Nizier193/cp24-dfo-client/blob/master/Генерация%20визуальной%20поддержки.pptx)** |
-| **Хакатон "Цифровой Прорыв, СКФО"** | • React сервер<br>• Телеграм бот<br>• Парсер документации<br>• Эвалюация | **[Проект](https://github.com/idashevskii/cp-24-skfo)**<br>**[Телеграм-бот](https://github.com/Nizier193/cp-24-skfo-tg-bot)**<br>**[Парсер доков](https://github.com/Nizier193/cp-24-skfo-parser)**<br>**[Evaluation](https://github.com/bukhanka/cp-24-skfo-gen_ans_eval)** |
-| **Научная работа "Planeu"** | Результаты в графике | **[Примеры GIF, PDF, DOCX](https://github.com/Nizier193/planeu-project)** |
-| **Хакатон "Datsdefence"** | Клиент-менеджер | **[Проект](https://github.com/Nizier193/datsdefence-12-07)** |
+| **Всероссийский хакатон "Цифровой Прорыв"** | Gradio/Whisper/Router сервера | **[[Продукт]](https://github.com/agi-team-ru/viral-clip-maker)** |
+| **Хакатон "AI ARROW"** | • Streamlit сервер<br>• API | **[[Реализация]](https://github.com/Nizier193/dnd-aiarrow-llm)**<br>**[[API]](https://github.com/Nizier193/dnd-aiarrow-llm/tree/master/services/controle_game_api)** |
+| **Хакатон "Цифровой Прорыв, ДФО"** | • Клиент<br>• Презентация | **[[Проект]](https://github.com/Nizier193/DFO_HackItON)**<br>**[[Презентация]](https://github.com/Nizier193/cp24-dfo-client/blob/master/Генерация%20визуальной%20поддержки.pptx)** |
+| **Хакатон "Цифровой Прорыв, СКФО"** | • React сервер<br>• Телеграм бот<br>• Парсер документации<br>• Эвалюация | **[[Проект]](https://github.com/idashevskii/cp-24-skfo)**<br>**[[Телеграм-бот]](https://github.com/Nizier193/cp-24-skfo-tg-bot)**<br>**[[Парсер доков]](https://github.com/Nizier193/cp-24-skfo-parser)**<br>**[[Evaluation]](https://github.com/bukhanka/cp-24-skfo-gen_ans_eval)** |
+| **Научная работа "Planeu"** | Результаты в графике | **[[Примеры GIF, PDF, DOCX]](https://github.com/Nizier193/planeu-project)** |
+| **Хакатон "Datsdefence"** | Клиент-менеджер | **[[Проект]](https://github.com/Nizier193/datsdefence-12-07)** |
 | **Хакатон "Техшторм" ПАО Татнефть** | • Мульти-пайплайн система RAG/LLM<br>• Streamlit/Телеграм бот | *Приватный репозиторий* |
 | **RAG Система "Acrux"** | • FastAPI сервер<br>• Телеграм бот<br>• LlamaIndex фреймворк | *Приватный репозиторий* |
 ---
@@ -111,15 +92,20 @@
 ---
 
 ## 「 ✦ Стек подробно ✦ 」
-     
-| **Category**       | **Technology**            |
-|--------------------|---------------------------|
-| **Python Backend**  | PyTelegramBotAPI          |
-|                    | SQLite                    |
-|                    | FastAPI                   |
-|                    | Streamlit                 |
-| **ML**             | PyTorch (Моделирование)   |
-|                    | CNN (UNet, ResNet-18, ResNet-36) |
-|                    | NLP (AutoGen, RAG, LangChain, LlamaIndex) |
-| **DS**             | Pandas                    |
-|                    | Matplotlib                |
+
+| **Категория**          | **Технологии**                                                |
+|-----------------------|--------------------------------------------------------------|
+| **Python Backend**     | • PyTelegramBotAPI - создание Telegram ботов                 |
+|                       | • FastAPI - разработка REST API                              |
+|                       | • Streamlit - создание веб-интерфейсов                       |
+|                       | • SQLite - работа с базами данных                            |
+| **Computer Vision**    | • YOLO (v5/v8) - детекция объектов                          |
+|                       | • CNN архитектуры:                                           |
+|                       |   - UNet - сегментация изображений                           |
+|                       |   - ResNet (18/36) - классификация                           |
+| **Natural Language**   | • AutoGen - мультиагентные системы                           |
+|                       | • RAG - работа с базами знаний                               |
+|                       | • LangChain/LlamaIndex - LLM фреймворки                      |
+| **Data Science**      | • PyTorch - глубокое обучение                                |
+|                       | • Pandas - обработка данных                                  |
+|                       | • Matplotlib - визуализация                                  |
