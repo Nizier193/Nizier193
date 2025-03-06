@@ -4,7 +4,7 @@
 
   <p align="center">
     A young ML Engineer from Saint-Petersburg.<br/>
-    I mean.. I`m just 17, so, I think everyone could be a programmer :)
+    I mean.. I`m just 18, so, I think everyone could be a programmer :)
     <br />
     <br />
     <a href="https://t.me/Nizier193">
@@ -14,9 +14,9 @@
 </div>
 
 ## 「 ✦ О себе ✦ 」
-Приветик, меня зовут Никита, живу в Ленинградской области, мне 17 лет.
+Приветик, меня зовут Никита, живу в Ленинградской области, мне 18 лет.
 
-Активно изучаю ML (NLP), применяю его эвристики и участвую в соответствующих хакатонах. 
+Изучаю ML, применяю его эвристики и участвую в соответствующих хакатонах. 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Coding+is+cool+but+freaking+hard)](https://git.io/typing-svg)
 
