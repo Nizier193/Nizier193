@@ -75,29 +75,88 @@
 Есть опыт **пром. проги**, разрабатывали командой из двух беков и трёх фронтов прикольное приложение для веба.
 Настраивал свои CI пайплайны и немного занимался DevOps вещами.
 
-| **Категория**           | **Технологии**                                               |
-|-------------------------|--------------------------------------------------------------|
-| **Backend Developing**  | FastAPI - REST API                                           |
-|                         | Streamlit - создание веб-интерфейсов                         |
-|                         | SQLAlchemy - основная библиотека для работы с SQL            |
-|                         | PostgreSQL - работа с реляционными БД                        |
-|                         | Qdrant - векторная БД для индексации и поиска                |
-|                         | Redis - основная БД для кеширования                          |
-|                         | PytelegrambotAPI - фреймворк для написания тг-ботов          |
-|                         | Pydantic / DTO / пр. - для структурирования проекта          |
+<table>
+  <tr>
+    <td align="center" valign="top" width="80">
+      <span style="font-size:3em;">🖥️</span>
+    </td>
+    <td valign="top">
+      <span style="font-size:1.3em;font-weight:bold;">Backend Developing</span>
+      <br><hr>
+      <span>🚀 <strong>FastAPI</strong> - REST API</span><br>
+      <span>🌐 <strong>Streamlit</strong> - создание веб-интерфейсов</span><br>
+      <span>🗄️ <strong>SQLAlchemy</strong> - основная библиотека для работы с SQL</span><br>
+      <span>🐘 <strong>PostgreSQL</strong> - работа с реляционными БД</span><br>
+      <span>🔍 <strong>Qdrant</strong> - векторная БД для индексации и поиска</span><br>
+      <span>⚡ <strong>Redis</strong> - основная БД для кеширования</span><br>
+      <span>🤖 <strong>PytelegrambotAPI</strong> - фреймворк для написания тг-ботов</span><br>
+      <span>📝 <strong>Pydantic / DTO</strong> - для структурирования проекта</span>
+    </td>
+  </tr>
+</table>
 
-| **Категория**           | **Технологии**                                               |
-|-------------------------|--------------------------------------------------------------|
-| **Computer Vision**     | CNN архитектуры: ResNet, UNet, YOLO                          |
-| **Natural Language**    | AutoGen - мультиагентные системы                             |
-|                         | RAG - работа с базами знаний                                 |
-|                         | LangChain/LlamaIndex - LLM фреймворки                        |
-|                         | Дообучение LLM - GPT-2                                       |
-| **Data Science**        | PyTorch - глубокое обучение                                  |
-|                         | Pandas - обработка данных                                    |
-|                         | Matplotlib - визуализация                                    |
+<br>
 
-| **Категория**           | **Технологии**                                               |
-|-------------------------|--------------------------------------------------------------|
-| **Питчинг**             | Canva - создание презентаций                                 |
-|                         | Figma - презентации/анимации                                 |
+<table>
+  <tr>
+    <td align="center" valign="top" width="80">
+      <span style="font-size:3em;">👁️</span>
+    </td>
+    <td valign="top">
+      <span style="font-size:1.3em;font-weight:bold;">Computer Vision</span>
+      <br><hr>
+      <span>🧠 <strong>CNN архитектуры</strong> - ResNet, UNet, YOLO</span>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="80">
+      <span style="font-size:3em;">🤖</span>
+    </td>
+    <td valign="top">
+      <span style="font-size:1.3em;font-weight:bold;">Natural Language Processing</span>
+      <br><hr>
+      <span>🔗 <strong>AutoGen</strong> - мультиагентные системы</span><br>
+      <span>📚 <strong>RAG</strong> - работа с базами знаний</span><br>
+      <span>⚙️ <strong>LangChain/LlamaIndex</strong> - LLM фреймворки</span><br>
+      <span>🎯 <strong>Дообучение LLM</strong> - GPT-2</span>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="80">
+      <span style="font-size:3em;">📊</span>
+    </td>
+    <td valign="top">
+      <span style="font-size:1.3em;font-weight:bold;">Data Science</span>
+      <br><hr>
+      <span>🔥 <strong>PyTorch</strong> - глубокое обучение</span><br>
+      <span>🐼 <strong>Pandas</strong> - обработка данных</span><br>
+      <span>📈 <strong>Matplotlib</strong> - визуализация</span>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="80">
+      <span style="font-size:3em;">🎨</span>
+    </td>
+    <td valign="top">
+      <span style="font-size:1.3em;font-weight:bold;">Питчинг</span>
+      <br><hr>
+      <span>🎯 <strong>Canva</strong> - создание презентаций</span><br>
+      <span>🎨 <strong>Figma</strong> - презентации/анимации</span>
+    </td>
+  </tr>
+</table>
