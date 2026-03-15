@@ -14,7 +14,7 @@
     <td style="padding-left: 8px;">
       🎓 (CU) Central University Student<br>
       🤖 AGI Team member/speaker<br>
-      🏆 7+ Hackathons winner<br>
+      🏆 8+ Hackathons winner<br>
       🌍 20+ Hackathons participant
     </td>
   </tr>
@@ -39,6 +39,7 @@
 | 🏆 Первое место| [Xi-Team]      | "AI-ARROW"                                                  |                                                                        |
 | 🥈 Второе место| [AGI Craft]     | "Цифровой Прорыв Международный"                             | **[[Награждение](https://rutube.ru/video/fde89ac7668286d9186d96ea489590f1/)]**                                                                       |
 | 🥈 Второе место| [AGI Team]     | "Цифровой Прорыв Всероссийский"                             | **[[Репортаж](https://rutube.ru/video/f7f774d05721969b3824fedfee81a214/)]**                                                                       |
+| 🥈 Второе место| [AGI Team]     | "ITMO/CU AI Championship"                             |                                                                       |
 | 🥈 Второе место| [AGI in 2024]  | "Цифровой прорыв СКФО"                                     | **[[Репортаж](https://vk.com/video-226111401_456239042)]**          |
 | ⭐ Четвёртое место| [Xi-Team]    | "Цифровой прорыв ДФО"                                      |                                                                        |
 | ⭐ Шестое место | [CtrlNeDano]   | "Хакатон DANO"                                             |                                                                        |
