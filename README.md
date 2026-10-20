@@ -14,7 +14,7 @@
     <td style="padding-left: 8px;">
       🎓 (CU) Central University Student<br>
       🤖 AGI Team member/speaker<br>
-      🏆 8+ Hackathons winner<br>
+      🏆 9+ Hackathons winner<br>
       🌍 20+ Hackathons participant
     </td>
   </tr>
